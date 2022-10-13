@@ -2,8 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--franklin-getting-started--djaeggi.hlx.page/
-- Live: https://main--franklin-getting-started--djaeggi.hlx.live/
+- Preview: https://main--franklin-getting-started--solaris007.hlx.page/
+- Live: https://main--franklin-getting-started--solaris007.hlx.live/
 
 ## Installation
 
